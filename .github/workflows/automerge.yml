@@ -7,7 +7,6 @@ on:
       - opened
       - reopened
       - synchronize
-      - labeled
 
 permissions:
   contents: write
